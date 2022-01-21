@@ -14,7 +14,8 @@ app = Flask(__name__)
 run_with_ngrok(app)
 #dbdir = 'mysql+pymysql://root:@localhost:3306/recursos'
 dbdir = "sqlite:///" + os.path.abspath(os.getcwd()) + "/recursos.db"
-app.config['SQLALCHEMY_DATABASE_URI'] = dbdir
+# app.config['SQLALCHEMY_DATABASE_URI'] = dbdir
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://rmvipyyabvkiyl:bcd68ba7764a3fcc4947f09580b75898ecc23e51e9e7cc6e3e16f66695b40fc5@ec2-44-195-186-223.compute-1.amazonaws.com:5432/df0g5aajrp2sh9'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 

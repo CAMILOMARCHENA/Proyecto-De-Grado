@@ -11,3 +11,4 @@ El presente trabajo tiene como propósito el diseño y la implementación de un 
 - PyMySQL == 1.0.2
 - SQLAlchemy == 3.5
 
+![Repositorio](1 "Repositorio")](https://i.postimg.cc/7Y6dqSJn/tesis2.png "Repositorio")

@@ -1,5 +1,3 @@
-# Proyecto-de-Grado
-Página de recursos digitales relacionados con el sector agropecuario.
+# PROTOTIPO DE PLATAFORMA DE RECURSOS DIGITALES DE MODELOS Y SIMULACIÓN CON DINÁMICA DE SISTEMAS, ORIENTADOS A LA TOMA DE DECISIONES DEL SECTOR AGROPECUARIO DE SANTANDER (COLOMBIA).
 
-Con mis compañeros de tesis, decidimos crear una pagina web donde se puedan almacenar recursos digitales como son imagenes, videos, tesis de grado, articulos, ligados a la dinamica de sistemas del sector agropecuario, mas espeficamente en la ubicación de Santander, Colombia.
-
+## El presente trabajo tiene como propósito el diseño y la implementación de un prototipo de plataforma de recursos digitales asociados a Dinámica de Sistemas para apoyar y facilitar la toma de decisiones o sirva de base al emprendimiento, como guía que brinde una mejor experiencia informativa y de aprendizaje a iniciativas y proyectos de actores asociados al sector agropecuario de Santander. Este proyecto se desarrolló como respuesta a necesidades de campesinos, ganaderos, agricultores y otros actores relacionados con el agro con el fin de mejorar y modernizar sus fuentes de información y apoyo a la toma de decisiones, tanto en el desarrollo de sus proyectos como en las organizaciones agropecuarias.

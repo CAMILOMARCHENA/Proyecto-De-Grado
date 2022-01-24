@@ -11,6 +11,7 @@ from flask_ngrok import run_with_ngrok
 UPLOAD_FOLDER = "recursos/"
 # Prueba de conexion
 app = Flask(__name__)
+flask_app = 'https://tesisagrosim.herokuapp.com/'
 run_with_ngrok(app)
 #dbdir = 'mysql+pymysql://root:@localhost:3306/recursos'
 dbdir = "sqlite:///" + os.path.abspath(os.getcwd()) + "/recursos.db"
